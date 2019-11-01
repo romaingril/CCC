@@ -4,6 +4,7 @@
     "extensions": [
         "modeltacceleratorservices",
         "electronicsstore",
+        "customerticketingaddon",
         "yacceleratorstorefront",
         "backoffice"
     ],
